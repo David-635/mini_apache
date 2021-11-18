@@ -22,7 +22,7 @@ public class HTTPService implements Runnable {
     private static final Logger LOG = Logger.getLogger(CLASS_NAME);
 
     //RUTA PARA NUEVA CARPETA DONDE ESTAN LOS ARCHIVOS
-   // private static final String DOCUMENT_ROOT = "D:/dng20/Downloads/DocumentsForWeb";
+   // private static final String DOCUMENT_ROOT = "D:/dng20/Desktop/Deibi/Materias Tercer Semestre/Desarrollo III";
 
     //RUTA PARA LA CARPETA DEL PROYECTO
     private static final String DOCUMENT_ROOT = System.getProperty("user.dir");
